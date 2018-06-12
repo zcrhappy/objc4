@@ -6,7 +6,7 @@
 #define _OBJC_NSOBJECT_H_
 
 #if __OBJC__
-
+//allen tester
 #include <objc/objc.h>
 #include <objc/NSObjCRuntime.h>
 
